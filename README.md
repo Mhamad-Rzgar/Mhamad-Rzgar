@@ -50,24 +50,12 @@ I'm always on the hunt for new challenges and learning opportunities. My commitm
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mhamad-Rzgar&theme=radical)
 
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Mhamad-Rzgar&theme=dark_dimmed&no-frame=false&no-bg=false&margin-w=4)
+
 ---
-[![](https://visitcount.itsvg.in/api?id=Omed0&icon=7&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Mhamad-Rzgar&icon=7&color=0)](https://visitcount.itsvg.in)
 
 
 <!-- GitHub stats link: https://github.com/anuraghazra/github-readme-stats -->
 
-
-<!--
-**Mhamad-Rzgar/Mhamad-Rzgar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
