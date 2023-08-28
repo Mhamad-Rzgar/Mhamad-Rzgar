@@ -31,26 +31,15 @@ I'm always on the hunt for new challenges and learning opportunities. My commitm
 
 --------------------------------------
 
-# Hello, folks! 👋
-
-My name is Mhamad Rzgar and I'm a [Your Job/Role, e.g., "Software Developer"]. I'm from [Your Country or City], currently living in [City or Country you're living in, if different]. I'm passionate about [a few things you love, e.g., "web development, open-source contributions, and data visualization"].
-
-## 🔧 Technologies & Tools
-
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-<!-- Customize your badges here: https://shields.io/ -->
 
 ## 🌱 Current Projects & Learning
 
-- Working on [Project Name](project-link).
-- Learning [Technology, Language, or Tool].
-- Exploring solutions in [specific domain or challenge, e.g., "Sustainable Software Development"].
-
+- working on a private project.
+- Learning [vuejs, PHP, Postgres db, laravel].
+- 
 ## 📫 How to reach me:
 
-- Twitter: [@your_username](https://twitter.com/your_username)
+- Twitter: [@MhamadRzgar0](https://twitter.com/MhamadRzgar0)
 - LinkedIn: [Your Name](https://www.linkedin.com/in/your-linkedin-id/)
 - Blog: [Your Blog's Name](your-blog-link)
 
@@ -58,11 +47,9 @@ My name is Mhamad Rzgar and I'm a [Your Job/Role, e.g., "Software Developer"]. I
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mhamad-Rzgar&theme=radical)
 
 <!-- GitHub stats link: https://github.com/anuraghazra/github-readme-stats -->
-
-
 
 
 <!--
