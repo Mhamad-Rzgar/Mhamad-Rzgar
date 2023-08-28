@@ -45,7 +45,7 @@ I'm always on the hunt for new challenges and learning opportunities. My commitm
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Mhamad-Rzgar&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mhamad-Rzgar&theme=radical)
 
