@@ -49,6 +49,11 @@ I'm always on the hunt for new challenges and learning opportunities. My commitm
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mhamad-Rzgar&theme=radical)
 
+
+---
+[![](https://visitcount.itsvg.in/api?id=Omed0&icon=7&color=0)](https://visitcount.itsvg.in)
+
+
 <!-- GitHub stats link: https://github.com/anuraghazra/github-readme-stats -->
 
 
