@@ -9,7 +9,7 @@ I'm a Senior Software Engineer and Mobile Application Developer driven by passio
 - **Backend Development:** Proficient with backend technologies like Node.js and Firebase, ensuring robust and scalable solutions.
 - **Frontend Craftsmanship:** Experienced in creating dynamic and intuitive UIs with ReactJS.
 - **AI & ML Enthusiast:** A keen interest in AI, specifically in machine learning and natural language processing.
-- **Database Expertise:** Deep understanding of databases like MongoDb and MySQL.
+- **Database Expertise:** Deep understanding of databases like MongoDB and MySQL.
 
 ## 🔧 Technologies & Tools
 
@@ -40,7 +40,7 @@ I'm always on the hunt for new challenges and learning opportunities. My commitm
 ## 📫 How to reach me:
 
 - Twitter: [@MhamadRzgar0](https://twitter.com/MhamadRzgar0)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/your-linkedin-id/)
+- LinkedIn: [Mhamad Rzgar](https://www.linkedin.com/in/mhamad-rzgar-772533177/)
 - Blog: [Your Blog's Name](your-blog-link)
 
 ## 📈 GitHub Stats
