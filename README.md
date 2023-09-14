@@ -1,5 +1,5 @@
 
-# Hello, World! 👋
+# Welcome, tech enthusiasts! 👋
 
 I'm a Senior Software Engineer and Mobile Application Developer driven by passion and innovation. With a rich experience in developing and implementing diverse mobile applications, I strive to combine my knowledge with the latest advancements in technology to create solutions that matter.
 
