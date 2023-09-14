@@ -29,7 +29,7 @@ I'm a Senior Software Engineer and Mobile Application Developer driven by passio
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Test][https://badgen.net/static/Programming/Java%20script?icon=github]
+![Test](https://badgen.net/static/Programming/Java%20script?icon=github)
 
 
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
