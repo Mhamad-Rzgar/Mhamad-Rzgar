@@ -94,5 +94,5 @@ I'm a Senior Software Engineer, Mobile Application Developer, and Systems Admini
   <img src="https://visitcount.itsvg.in/api?id=Mhamad-Rzgar&icon=7&color=0" alt="Profile Views" />
 </div>
 
-
+[![](https://visitcount.itsvg.in/api?id=Mhamad-Rzgar&icon=7&color=0)](https://visitcount.itsvg.in)
 
